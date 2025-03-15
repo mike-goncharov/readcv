@@ -1,0 +1,258 @@
+{
+  "general": {
+    "profilePhoto": "/content/media/profilePhoto.jpg",
+    "username": "goncharov",
+    "displayName": "Michael Goncharov",
+    "profession": "Designer",
+    "location": "Warsaw, Poland",
+    "pronouns": null,
+    "byline": "Designer in Warsaw, Poland",
+    "website": "goncharov.eu",
+    "websiteURL": "http://goncharov.eu",
+    "about": "Product Designer with 11 years' experience. For over a decade, I've crafted user-friendly solutions from complex systems. Task simplification and team synergy drive my passion.",
+    "status": {
+      "text": null,
+      "emoji": null,
+      "timestamp": null
+    },
+    "sectionOrder": [
+      "Contact",
+      "Work Experience",
+      "Education",
+      "Projects",
+      "Side Projects",
+      "Exhibitions",
+      "Speaking",
+      "Writing",
+      "Awards",
+      "Features",
+      "Volunteering",
+      "Certifications",
+      "Teams"
+    ]
+  },
+  "projects": [],
+  "sideProjects": [],
+  "exhibitions": [],
+  "talks": [],
+  "writing": [],
+  "awards": [],
+  "features": [],
+  "workExperience": [
+    {
+      "id": "V2iWoh5vxdOs87eA40je",
+      "year": "2019 — Now",
+      "heading": "Product Designer & Co-founder at Kardash",
+      "url": "https://kardash.co/",
+      "collaborators": [],
+      "description": "Tools: Adobe CC: Photoshop, Lightroom, Illustrator, Pixelmator, Google Spreadsheets, Excel, Notion, [Make.com](http://make.com/), JavaScript, CSS",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Product Designer & Co-founder",
+      "company": "Kardash",
+      "location": "Warsaw, Poland"
+    },
+    {
+      "id": "o5JhAMbm6qW8MTPu5Q35",
+      "year": "2021 — 2024",
+      "heading": "Product Designer, Furniture designer, Co-founder at Plywoodia",
+      "url": "https://plywoodia.com/",
+      "collaborators": [],
+      "description": "Tools: Figma, Adobe CC: Photoshop, Lightroom, Illustrator, Pixelmator, Sketch, Fusion 360, AutoCAD, Google Spreadsheets, Excel, Notion, [Make.com](http://make.com/)",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Product Designer, Furniture designer, Co-founder",
+      "company": "Plywoodia",
+      "location": "Warsaw, Poland"
+    },
+    {
+      "id": "hvpZzEkLUAgBMQ0g0qgr",
+      "year": "2014 — 2019",
+      "heading": "UX/UI Designer at AGMSoft",
+      "url": "https://agmsoft.com/",
+      "collaborators": [],
+      "description": "Tools: Figma, Adobe CC: Photoshop, Lightroom, Illustrator, Sketch, Jira, Confluence, Trello, Principle, Tumult Hype, Google Spreadsheets, Excel, Notion, [Make.com](http://make.com/)",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "UX/UI Designer",
+      "company": "AGMSoft",
+      "location": "Minsk, Belarus"
+    }
+  ],
+  "volunteering": [],
+  "education": [
+    {
+      "id": "zrFAanliwkAVG4xYfuMQ",
+      "year": "2007 — 2012",
+      "heading": "Bachelor of Architecture at Belarusian National Technical University",
+      "url": null,
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "education",
+      "degree": "Bachelor of Architecture",
+      "school": "Belarusian National Technical University",
+      "location": "Minsk, Belarus"
+    },
+    {
+      "id": "03z9Y5e3NqCO6o2Ms0Kt",
+      "year": "2012 — 2012",
+      "heading": "Webmaster: front-end development at Belarusian State University of Informatics and Radioelectronics",
+      "url": null,
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "education",
+      "degree": "Webmaster: front-end development",
+      "school": "Belarusian State University of Informatics and Radioelectronics",
+      "location": "Minsk, Belarus"
+    },
+    {
+      "id": "0j6UmP2RGjCFRkCFmNND",
+      "year": "2011 — 2011",
+      "heading": "PHP programming at Belarusian State University of Informatics and Radioelectronics",
+      "url": null,
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "education",
+      "degree": "PHP programming",
+      "school": "Belarusian State University of Informatics and Radioelectronics",
+      "location": "Minsk, Belarus"
+    }
+  ],
+  "certifications": [],
+  "contact": [
+    {
+      "id": "fNTMrIDEbb8wKnEf2JWo",
+      "platform": "LinkedIn",
+      "handle": "mike-goncharov",
+      "url": "https://linkedin.com/in/mike-goncharov"
+    },
+    {
+      "id": "qjNqkVxvco9wgwEI2JJm",
+      "platform": "Email",
+      "handle": "mike@goncharov.eu",
+      "url": "mailto:mike@goncharov.eu"
+    },
+    {
+      "id": "vwXeCyryS8lG3WRaf9Rh",
+      "platform": "Telegram",
+      "handle": "mikegoncharov",
+      "url": "https://t.me/mikegoncharov"
+    }
+  ],
+  "allCollections": [
+    {
+      "name": "Contact",
+      "items": [
+        {
+          "id": "fNTMrIDEbb8wKnEf2JWo",
+          "platform": "LinkedIn",
+          "handle": "mike-goncharov",
+          "url": "https://linkedin.com/in/mike-goncharov"
+        },
+        {
+          "id": "qjNqkVxvco9wgwEI2JJm",
+          "platform": "Email",
+          "handle": "mike@goncharov.eu",
+          "url": "mailto:mike@goncharov.eu"
+        },
+        {
+          "id": "vwXeCyryS8lG3WRaf9Rh",
+          "platform": "Telegram",
+          "handle": "mikegoncharov",
+          "url": "https://t.me/mikegoncharov"
+        }
+      ]
+    },
+    {
+      "name": "Work Experience",
+      "items": [
+        {
+          "id": "V2iWoh5vxdOs87eA40je",
+          "year": "2019 — Now",
+          "heading": "Product Designer & Co-founder at Kardash",
+          "url": "https://kardash.co/",
+          "collaborators": [],
+          "description": "Tools: Adobe CC: Photoshop, Lightroom, Illustrator, Pixelmator, Google Spreadsheets, Excel, Notion, [Make.com](http://make.com/), JavaScript, CSS",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Product Designer & Co-founder",
+          "company": "Kardash",
+          "location": "Warsaw, Poland"
+        },
+        {
+          "id": "o5JhAMbm6qW8MTPu5Q35",
+          "year": "2021 — 2024",
+          "heading": "Product Designer, Furniture designer, Co-founder at Plywoodia",
+          "url": "https://plywoodia.com/",
+          "collaborators": [],
+          "description": "Tools: Figma, Adobe CC: Photoshop, Lightroom, Illustrator, Pixelmator, Sketch, Fusion 360, AutoCAD, Google Spreadsheets, Excel, Notion, [Make.com](http://make.com/)",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Product Designer, Furniture designer, Co-founder",
+          "company": "Plywoodia",
+          "location": "Warsaw, Poland"
+        },
+        {
+          "id": "hvpZzEkLUAgBMQ0g0qgr",
+          "year": "2014 — 2019",
+          "heading": "UX/UI Designer at AGMSoft",
+          "url": "https://agmsoft.com/",
+          "collaborators": [],
+          "description": "Tools: Figma, Adobe CC: Photoshop, Lightroom, Illustrator, Sketch, Jira, Confluence, Trello, Principle, Tumult Hype, Google Spreadsheets, Excel, Notion, [Make.com](http://make.com/)",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "UX/UI Designer",
+          "company": "AGMSoft",
+          "location": "Minsk, Belarus"
+        }
+      ]
+    },
+    {
+      "name": "Education",
+      "items": [
+        {
+          "id": "zrFAanliwkAVG4xYfuMQ",
+          "year": "2007 — 2012",
+          "heading": "Bachelor of Architecture at Belarusian National Technical University",
+          "url": null,
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "education",
+          "degree": "Bachelor of Architecture",
+          "school": "Belarusian National Technical University",
+          "location": "Minsk, Belarus"
+        },
+        {
+          "id": "03z9Y5e3NqCO6o2Ms0Kt",
+          "year": "2012 — 2012",
+          "heading": "Webmaster: front-end development at Belarusian State University of Informatics and Radioelectronics",
+          "url": null,
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "education",
+          "degree": "Webmaster: front-end development",
+          "school": "Belarusian State University of Informatics and Radioelectronics",
+          "location": "Minsk, Belarus"
+        },
+        {
+          "id": "0j6UmP2RGjCFRkCFmNND",
+          "year": "2011 — 2011",
+          "heading": "PHP programming at Belarusian State University of Informatics and Radioelectronics",
+          "url": null,
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "education",
+          "degree": "PHP programming",
+          "school": "Belarusian State University of Informatics and Radioelectronics",
+          "location": "Minsk, Belarus"
+        }
+      ]
+    }
+  ]
+}
